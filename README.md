@@ -19,10 +19,8 @@ This project explores global COVID-19 data — cleans it, analyzes trends, and v
 
 ## 📷 Visual Output Examples
 ![Global Cases](global_daily_new_cases.png)
+![global_daily_new_cases](https://github.com/user-attachments/assets/e53b0a63-af80-4776-b4be-5ee6977aaab0)
 
-## 💡 Next Steps
-- Add predictive modeling (ARIMA, Prophet)
-- Build interactive dashboard (Plotly, Streamlit)
 
 ## 👤 Author
 Beta ji | Aspiring Software Engineer & Data Analyst
